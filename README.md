@@ -1,9 +1,5 @@
 ## Light(Chat V1)
 
-DevConnector is a Social Network For Developers. In this Project I have used Django and Django-Rest-Framework for Backend and React For Frontend.
-
-### Demo of this site available here [DevConnector Demo](https://devconn.netlify.com)
-
 ## Frontend( React )
 
 #### To install dependency
