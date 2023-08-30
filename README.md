@@ -1,7 +1,5 @@
 ## Light(Chat V1)
 
-## Frontend( React )
-
 #### To install dependency
 
 ```
